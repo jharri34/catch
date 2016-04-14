@@ -1,0 +1,22 @@
+{
+  "name": "catch",
+  "version": "0.0.0",
+  "description": "collects and store property infomation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jharri34/catch.git"
+  },
+  "keywords": [
+    "catch"
+  ],
+  "author": "jamall harris",
+  "license": "   Apache License",
+  "bugs": {
+    "url": "https://github.com/jharri34/catch/issues"
+  },
+  "homepage": "https://github.com/jharri34/catch"
+}
